@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "67rdca3eeb7f6fgeed47181",
+        "nameCard": "Card1",
+        "name": "Заначка",
+        "incomeCategorys": [
+            "67rdca3eeb7f6fgeed471198",
+            "67rdca3eeb7f6fgeed471100",
+            "67rdca3eeb7f6fgeed4711012"
+        ],
+        "rateCategorys": [
+            "67rdca3eeb7f6fgeed47110015",
+            "67rdca3eeb7f6fgeed471101216",
+            "67rdca3eeb7f6fgeed47110117",
+            "67rdca3eeb7f6fgeed47110018",
+            "67rdca3eeb7f6fgeed471101219"
+        ]
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47182",
+        "nameCard": "Card2",
+        "name": "Зарплата",
+        "incomeCategorys": ["67rdca3eeb7f6fgeed471101"],
+        "rateCategorys": [
+            "67rdca3eeb7f6fgeed4711981",
+            "67rdca3eeb7f6fgeed4711002",
+            "67rdca3eeb7f6fgeed47110123",
+            "67rdca3eeb7f6fgeed4711014",
+            "67rdca3eeb7f6fgeed4711985",
+            "67rdca3eeb7f6fgeed4711006",
+            "67rdca3eeb7f6fgeed47110127",
+            "67rdca3eeb7f6fgeed4711018",
+            "67rdca3eeb7f6fgeed4711009",
+            "67rdca3eeb7f6fgeed471101211",
+            "67rdca3eeb7f6fgeed47110113"
+        ]
+    }
+]

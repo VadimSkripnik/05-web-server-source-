@@ -1,0 +1,362 @@
+[
+    {
+        "_id": "67rdca3eeb7f6fgeed47119811",
+        "data": "15.01.2022",
+        "category": "67rdca3eeb7f6fgeed471198",
+        "sourceOfIncome": "Кузнечное дело",
+        "color": "primary",
+        "nameCardReceipt": "Card1",
+        "profit": 10000,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47119812",
+        "data": "16.01.2022",
+        "category": "67rdca3eeb7f6fgeed471100",
+        "color": "danger",
+        "sourceOfIncome": "Токарное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 20000,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47119813",
+        "data": "16.01.2022",
+        "category": "67rdca3eeb7f6fgeed4711012",
+        "color": "success",
+        "sourceOfIncome": "IT доходы",
+        "nameCardReceipt": "Card1",
+        "profit": 5000,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47119814",
+        "data": "12.01.2022",
+        "category": "67rdca3eeb7f6fgeed471101",
+        "color": "secondary",
+        "sourceOfIncome": "Зарплата",
+        "nameCardReceipt": "Card2",
+        "profit": 60000,
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47119815",
+        "data": "15.02.2022",
+        "category": "67rdca3eeb7f6fgeed471198",
+        "sourceOfIncome": "Кузнечное дело",
+        "color": "primary",
+        "nameCardReceipt": "Card1",
+        "profit": 10100,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47119816",
+        "data": "16.02.2022",
+        "category": "67rdca3eeb7f6fgeed471100",
+        "color": "danger",
+        "sourceOfIncome": "Токарное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 20100,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47119817",
+        "data": "16.02.2022",
+        "category": "67rdca3eeb7f6fgeed4711012",
+        "color": "success",
+        "sourceOfIncome": "IT доходы",
+        "nameCardReceipt": "Card1",
+        "profit": 5200,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47119818",
+        "data": "12.02.2022",
+        "category": "67rdca3eeb7f6fgeed471101",
+        "color": "secondary",
+        "sourceOfIncome": "Зарплата",
+        "nameCardReceipt": "Card2",
+        "profit": 60300,
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47119819",
+        "data": "15.03.2022",
+        "category": "67rdca3eeb7f6fgeed471198",
+        "color": "primary",
+        "sourceOfIncome": "Кузнечное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 10400,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198110",
+        "data": "16.03.2022",
+        "category": "67rdca3eeb7f6fgeed471100",
+        "color": "danger",
+        "sourceOfIncome": "Токарное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 20500,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198111",
+        "data": "16.03.2022",
+        "category": "67rdca3eeb7f6fgeed4711012",
+        "color": "success",
+        "sourceOfIncome": "IT доходы",
+        "nameCardReceipt": "Card1",
+        "profit": 5600,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198112",
+        "data": "12.03.2022",
+        "category": "67rdca3eeb7f6fgeed471101",
+        "color": "secondary",
+        "sourceOfIncome": "Зарплата",
+        "nameCardReceipt": "Card2",
+        "profit": 60700,
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198113",
+        "data": "15.04.2022",
+        "category": "67rdca3eeb7f6fgeed471198",
+        "color": "primary",
+        "sourceOfIncome": "Кузнечное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 10800,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198114",
+        "data": "16.04.2022",
+        "category": "67rdca3eeb7f6fgeed471100",
+        "color": "danger",
+        "sourceOfIncome": "Токарное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 20900,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198115",
+        "data": "16.04.2022",
+        "category": "67rdca3eeb7f6fgeed4711012",
+        "color": "success",
+        "sourceOfIncome": "IT доходы",
+        "nameCardReceipt": "Card1",
+        "profit": 5100,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198116",
+        "data": "12.04.2022",
+        "category": "67rdca3eeb7f6fgeed471101",
+        "color": "secondary",
+        "sourceOfIncome": "Зарплата",
+        "nameCardReceipt": "Card2",
+        "profit": 62000,
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198117",
+        "data": "15.05.2022",
+        "category": "67rdca3eeb7f6fgeed471198",
+        "color": "primary",
+        "sourceOfIncome": "Кузнечное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 13000,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198118",
+        "data": "16.05.2022",
+        "category": "67rdca3eeb7f6fgeed471100",
+        "color": "danger",
+        "sourceOfIncome": "Токарное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 24000,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198119",
+        "data": "16.05.2022",
+        "category": "67rdca3eeb7f6fgeed4711012",
+        "color": "success",
+        "sourceOfIncome": "IT доходы",
+        "nameCardReceipt": "Card1",
+        "profit": 5500,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198120",
+        "data": "12.05.2022",
+        "category": "67rdca3eeb7f6fgeed471101",
+        "color": "secondary",
+        "sourceOfIncome": "Зарплата",
+        "nameCardReceipt": "Card2",
+        "profit": 66000,
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198121",
+        "data": "15.06.2022",
+        "category": "67rdca3eeb7f6fgeed471198",
+        "color": "primary",
+        "sourceOfIncome": "Кузнечное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 17000,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198122",
+        "data": "16.06.2022",
+        "category": "67rdca3eeb7f6fgeed471100",
+        "colo": "danger",
+        "sourceOfIncome": "Токарное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 28000,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198123",
+        "data": "16.06.2022",
+        "category": "67rdca3eeb7f6fgeed4711012",
+        "color": "success",
+        "sourceOfIncome": "IT доходы",
+        "nameCardReceipt": "Card1",
+        "profit": 5900,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198124",
+        "data": "12.06.2022",
+        "category": "67rdca3eeb7f6fgeed471101",
+        "color": "secondary",
+        "sourceOfIncome": "Зарплата",
+        "nameCardReceipt": "Card2",
+        "profit": 61000,
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198125",
+        "data": "15.07.2022",
+        "category": "67rdca3eeb7f6fgeed471198",
+        "color": "primary",
+        "sourceOfIncome": "Кузнечное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 12000,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198126",
+        "data": "16.07.2022",
+        "category": "67rdca3eeb7f6fgeed471100",
+        "color": "danger",
+        "sourceOfIncome": "Токарное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 23000,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198127",
+        "data": "16.07.2022",
+        "category": "67rdca3eeb7f6fgeed4711012",
+        "color": "success",
+        "sourceOfIncome": "IT доходы",
+        "nameCardReceipt": "Card1",
+        "profit": 5400,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198128",
+        "data": "12.07.2022",
+        "category": "67rdca3eeb7f6fgeed471101",
+        "color": "secondary",
+        "sourceOfIncome": "Зарплата",
+        "nameCardReceipt": "Card2",
+        "profit": 65000,
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198129",
+        "data": "15.08.2022",
+        "category": "67rdca3eeb7f6fgeed471198",
+        "color": "primary",
+        "sourceOfIncome": "Кузнечное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 16000,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198130",
+        "data": "16.08.2022",
+        "category": "67rdca3eeb7f6fgeed471100",
+        "color": "danger",
+        "sourceOfIncome": "Токарное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 27000,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198131",
+        "data": "16.08.2022",
+        "category": "67rdca3eeb7f6fgeed4711012",
+        "color": "success",
+        "sourceOfIncome": "IT доходы",
+        "nameCardReceipt": "Card1",
+        "profit": 5800,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198132",
+        "data": "12.08.2022",
+        "category": "67rdca3eeb7f6fgeed471101",
+        "color": "secondary",
+        "sourceOfIncome": "Зарплата",
+        "nameCardReceipt": "Card2",
+        "profit": 69000,
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198133",
+        "data": "15.09.2022",
+        "category": "67rdca3eeb7f6fgeed471198",
+        "color": "primary",
+        "sourceOfIncome": "Кузнечное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 10100,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198134",
+        "data": "16.09.2022",
+        "category": "67rdca3eeb7f6fgeed471100",
+        "color": "danger",
+        "sourceOfIncome": "Токарное дело",
+        "nameCardReceipt": "Card1",
+        "profit": 20200,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198135",
+        "data": "16.09.2022",
+        "category": "67rdca3eeb7f6fgeed4711012",
+        "color": "success",
+        "sourceOfIncome": "IT доходы",
+        "nameCardReceipt": "Card1",
+        "profit": 5300,
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471198136",
+        "data": "12.09.2022",
+        "category": "67rdca3eeb7f6fgeed471101",
+        "color": "secondary",
+        "sourceOfIncome": "Зарплата",
+        "nameCardReceipt": "Card2",
+        "profit": 60400,
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    }
+]

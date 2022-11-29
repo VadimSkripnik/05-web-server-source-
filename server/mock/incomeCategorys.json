@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "67rdca3eeb7f6fgeed471198",
+        "sourceOfIncome": "Кузнечное дело",
+        "color": "primary",
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471100",
+        "color": "danger",
+        "sourceOfIncome": "Токарное дело",
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4711012",
+        "color": "success",
+        "sourceOfIncome": "IT доходы",
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471101",
+        "color": "secondary",
+        "sourceOfIncome": "Зарплата",
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    }
+]

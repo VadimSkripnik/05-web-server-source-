@@ -1,0 +1,98 @@
+[
+    {
+        "_id": "67rdca3eeb7f6fgeed4711981",
+        "sourceOfIncome": "Продукты и товары для дома",
+        "color": "primary",
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4711002",
+        "color": "danger",
+        "sourceOfIncome": "Банковские услуги и налоги",
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47110123",
+        "color": "success",
+        "sourceOfIncome": "Кафе, бары и рестораны",
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4711014",
+        "color": "secondary",
+        "sourceOfIncome": "Красота и здоровье",
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4711985",
+        "sourceOfIncome": "Транспорт",
+        "color": "primary",
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4711006",
+        "color": "danger",
+        "sourceOfIncome": "Развлечения",
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47110127",
+        "color": "success",
+        "sourceOfIncome": "Телефон",
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4711018",
+        "color": "secondary",
+        "sourceOfIncome": "Подарки и сувениры",
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed4711009",
+        "color": "danger",
+        "sourceOfIncome": "Образование",
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471101211",
+        "color": "success",
+        "sourceOfIncome": "Спорт",
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47110113",
+        "color": "secondary",
+        "sourceOfIncome": "Обслуживание автомобиля",
+        "cardId": "67rdca3eeb7f6fgeed47182"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47110015",
+        "color": "danger",
+        "sourceOfIncome": "Оснастка, инструмент, материал для токарного станка",
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471101216",
+        "color": "success",
+        "sourceOfIncome": "Металл, расходники, инструмент для кузни",
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47110117",
+        "color": "secondary",
+        "sourceOfIncome": "Ремонт и востановление помещения базы",
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47110018",
+        "color": "danger",
+        "sourceOfIncome": "Налоги базы",
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471101219",
+        "color": "success",
+        "sourceOfIncome": "Электричество базы",
+        "cardId": "67rdca3eeb7f6fgeed47181"
+    }
+]
